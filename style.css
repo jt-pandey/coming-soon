@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "groteskb";
+    src: url("./fonts/SpaceGrotesk-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "groteskm";
+    src: url("./fonts/SpaceGrotesk-Regular.ttf");
+}
